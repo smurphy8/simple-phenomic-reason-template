@@ -1,0 +1,21 @@
+####{BSB GENERATED: NO EDIT
+FLG -ppx '/home/scott/programs/reason/phenomic-website-generation-examples/node_modules/bs-platform/lib/bsppx.exe -bs-jsx 3'
+S /home/scott/programs/reason/phenomic-website-generation-examples/node_modules/bs-platform/lib/ocaml
+B /home/scott/programs/reason/phenomic-website-generation-examples/node_modules/bs-platform/lib/ocaml
+FLG -nostdlib -color always
+FLG -w -30-40+6+7+27+32..39+44+45+101
+S /home/scott/programs/reason/phenomic-website-generation-examples/node_modules/reason-react/lib/ocaml
+B /home/scott/programs/reason/phenomic-website-generation-examples/node_modules/reason-react/lib/ocaml
+S /home/scott/programs/reason/phenomic-website-generation-examples/node_modules/@moox/bs-react-helmet/lib/ocaml
+B /home/scott/programs/reason/phenomic-website-generation-examples/node_modules/@moox/bs-react-helmet/lib/ocaml
+S /home/scott/programs/reason/phenomic-website-generation-examples/node_modules/@phenomic/preset-react-app/lib/ocaml
+B /home/scott/programs/reason/phenomic-website-generation-examples/node_modules/@phenomic/preset-react-app/lib/ocaml
+S /home/scott/programs/reason/phenomic-website-generation-examples/node_modules/@phenomic/plugin-renderer-react/lib/ocaml
+B /home/scott/programs/reason/phenomic-website-generation-examples/node_modules/@phenomic/plugin-renderer-react/lib/ocaml
+S /home/scott/programs/reason/phenomic-website-generation-examples/node_modules/@phenomic/api-client/lib/ocaml
+B /home/scott/programs/reason/phenomic-website-generation-examples/node_modules/@phenomic/api-client/lib/ocaml
+S src
+B lib/bs/src
+S src/components
+B lib/bs/src/components
+####BSB GENERATED: NO EDIT}
